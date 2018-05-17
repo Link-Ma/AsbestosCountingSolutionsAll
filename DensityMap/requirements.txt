@@ -1,0 +1,7 @@
+numpy
+theano
+scikit-image
+scipy
+matplotlib
+https://github.com/Lasagne/Lasagne/archive/master.zip
+
